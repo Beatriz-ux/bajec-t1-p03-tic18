@@ -1,0 +1,1 @@
+Me chamo Beatriz, estou atuamente cursando Ciência da Computação da UESC.Faço parte da TECNOJr empresa junior de tecnologia, no cargo de Diretora de RH.
