@@ -5,3 +5,7 @@ desejava aprimorar meus conhecimentos e habilidades na área de
 tecnologia, e espero que eu consiga absorver o máximo de 
 conteúdo relevante possível deste programa para que eu me 
 torne um bom profissional.
+
+#Expectativas
+
+- Entrar em contato com o mercado de trabalho na área de software
