@@ -1,0 +1,2 @@
+Meu nome é Everaldina, tenho 22 anos e atualmente estou cursando o 6º semestre do curso de Ciencia da computação na UESC. No ensino medio me formei no curso de Tecnologia e informatica no IFBA Valença.
+Tenho conhecimento em Java, Python e C.
